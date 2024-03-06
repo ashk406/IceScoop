@@ -15,3 +15,12 @@ A FullStack Ice cream mobile application built in .NET Multi-platform App UI (.N
 # Getting Started
 Install Visual Studio 2022 Community edition
 ---- Yet to complete ---
+
+# Modules 
+use Dev Tunnels for physical device testing
+1. Register / Sign up
+2. Sign in
+3. Home screen -> Details screen
+4. Navigation Drawer / Customized Flyout
+5. My Cart, Profile and my orders details screens, Toast messages, custom modle pop ups, colour theame functionlaity
+7. Password change
